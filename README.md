@@ -1,2 +1,2 @@
 # lojavirtual
-arquivo alterado no repositorio
+arquivo alterado no repositorio (2)
